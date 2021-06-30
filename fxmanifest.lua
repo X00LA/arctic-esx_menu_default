@@ -1,6 +1,10 @@
-resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
+fx_version 'cerulean'
+games { 'gta5' }
 
+author 'Froxyms'
 description 'ESX Menu Default Redesign by Arctic Development'
+version '1.0.3'
+
 
 client_scripts {
 	'@es_extended/client/wrapper.lua',
